@@ -1,0 +1,15 @@
+C:\Velu\la-4-oo-encounter-MrInfinity21\bin\Debug\net8.0\game1401_la_starter.exe
+C:\Velu\la-4-oo-encounter-MrInfinity21\bin\Debug\net8.0\game1401_la_starter.deps.json
+C:\Velu\la-4-oo-encounter-MrInfinity21\bin\Debug\net8.0\game1401_la_starter.runtimeconfig.json
+C:\Velu\la-4-oo-encounter-MrInfinity21\bin\Debug\net8.0\game1401_la_starter.dll
+C:\Velu\la-4-oo-encounter-MrInfinity21\bin\Debug\net8.0\game1401_la_starter.pdb
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.AssemblyInfoInputs.cache
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.AssemblyInfo.cs
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.csproj.CoreCompileInputs.cache
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.sourcelink.json
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.dll
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\refint\game1401_la_starter.dll
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.pdb
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\game1401_la_starter.genruntimeconfig.cache
+C:\Velu\la-4-oo-encounter-MrInfinity21\obj\Debug\net8.0\ref\game1401_la_starter.dll
